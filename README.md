@@ -1,3 +1,3 @@
 # new project
   this is my project
-  crated by kanchan raghuwanshi
+  crated by kanchan raghuwanshi.
